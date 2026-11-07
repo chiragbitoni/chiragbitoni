@@ -73,31 +73,34 @@
 
 ### 🏆 GitHub Profile Trophies
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=chiragbitoni&theme=onedark&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Profile Trophies" />
+    <img src="https://github-trophies.devomb.com/?username=chiragbitoni&theme=onedark&margin-w=4" alt="GitHub Profile Trophies" />
   </a>
-</div>
+</p>
 
 ---
 
 ### 📈 Activity & Development Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chiragbitoni&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chiragbitoni&theme=tokyonight&hide_border=false" alt="Streak Stats" width="48%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=chiragbitoni&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=chiragbitoni&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-<div align="center" style="margin-top: 15px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragbitoni&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chiragbitoni&theme=tokyo-night&hide_border=false" alt="Activity Graph" width="48%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=chiragbitoni&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-activity-graph.vercel.app/graph?username=chiragbitoni&theme=tokyo-night" alt="Activity Graph" />
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Tech Quote" />
-</div>
+</p>
 
 <div align="center" style="margin-top: 20px;">
   <p><i>Building full-stack web applications, microservices, and end-to-end automation.</i></p>
