@@ -1,15 +1,16 @@
 ### Chirag Bitoni
 
 **Full-Stack Software Engineer & SDET**  
-Building scalable web applications, resilient backend architectures, and automated testing ecosystems.
+Building scalable web applications, robust APIs, resilient backend architectures, and automated testing ecosystems.
 
 ---
 
 #### 💻 Technical Stack
 
 * **Frontend:** TypeScript · Svelte · React · JavaScript · HTML5 · CSS3 · Tailwind CSS
-* **Backend:** C# · .NET · Node.js · Python · RESTful APIs · Microservices · Docker
-* **Quality & Automation:** Playwright · Selenium · WebdriverIO · Postman · Allure Reports · CI/CD
+* **Backend & Architecture:** C# · .NET · Node.js · Python · Microservices · Docker
+* **APIs & Integration:** RESTful APIs · GraphQL · Postman · API Automation & Contract Testing
+* **Quality & Test Automation:** Playwright (Web & API) · Selenium · WebdriverIO · Allure Reports · CI/CD
 * **DevOps & Tooling:** GitHub Actions · Azure DevOps · Git · Linux · VS Code
 
 ---
