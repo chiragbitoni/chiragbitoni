@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm chiragbitoni! 👋
 
-<!--
-**chiragbitoni/chiragbitoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🏆 GitHub Profile Trophies
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=chiragbitoni&theme=onedark&no-frame=false&no-bg=false&margin-w=4" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=chiragbitoni&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragbitoni&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 Streak Stats
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chiragbitoni&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+*Generated with Antigravity.*
