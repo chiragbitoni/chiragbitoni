@@ -14,12 +14,6 @@ Building scalable web applications, resilient backend architectures, and automat
 
 ---
 
-#### 🏆 Badges & Achievements
-
-[![GitHub Achievements](https://img.shields.io/badge/GitHub%20Achievements-YOLO%20%E2%80%A2%20Pair%20Extraordinaire%20%E2%80%A2%20Pull%20Shark%20%E2%80%A2%20Quickdraw-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/chiragbitoni?tab=achievements)
-
----
-
 #### 📊 Activity Overview
 
 <p align="left">
